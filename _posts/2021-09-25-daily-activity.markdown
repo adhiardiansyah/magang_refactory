@@ -7,13 +7,17 @@ categories: dsm
 
 # Daily Activity
 
-| DATE | ACTIVITY | BLOCKER | REPOSITORY |
-| --- | --- | --- | --- |
-| 30/08/2021 | Briefing magang | - | - |
-| 31/08/2021 | belajar install framework liat tutorial, sambil belajar github | instalasi masih belum kebaca di OS windows | - |
-| 01/09/2021 | Kemarin : lanjut git, buat programming language kondisi dan operatorlanjut perulangan challenge github page udahHari ini : belajar array dan collectionwpm : 50Hackerrank : baru buat akun | kendala masih belajar menghafal syntax git | - |
-| 02/09/2021 | Kemarin : ngerjain challenge sampai challenge 3 , belajar golang basic | nyari algoritma sudah bisa resolved | [https://github.com/adhiardiansyah/adhiardiansyah.github.io](https://github.com/adhiardiansyah/adhiardiansyah.github.io)[https://github.com/adhiardiansyah/RefactoryChallengeDay2](https://github.com/adhiardiansyah/RefactoryChallengeDay2)[https://github.com/adhiardiansyah/RefactoryChallengeDay](https://github.com/adhiardiansyah/RefactoryChallengeDay2)3 |
-| 03/09/2021 | Kemarin : nyelesain challenge day 4,belajar golangHari ini : nyelesain golang, masuk framework, nyelesain challenge | - | [https://github.com/adhiardiansyah/RefactoryChallengeDay](https://github.com/adhiardiansyah/RefactoryChallengeDay2)4[https://github.com/adhiardiansyah/RefactoryChallengeDay](https://github.com/adhiardiansyah/RefactoryChallengeDay2)5 |
+| DATE       | ACTIVITY                                                                                                                                                                                   | BLOCKER                                    | REPOSITORY                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 30/08/2021 | Briefing magang                                                                                                                                                                            | -                                          | -                                                                                                                        |
+| 31/08/2021 | belajar install framework liat tutorial, sambil belajar github                                                                                                                             | instalasi masih belum kebaca di OS windows | -                                                                                                                        |
+| 01/09/2021 | Kemarin : lanjut git, buat programming language kondisi dan operatorlanjut perulangan challenge github page udahHari ini : belajar array dan collectionwpm : 50Hackerrank : baru buat akun | kendala masih belajar menghafal syntax git | -                                                                                                                        |
+| 02/09/2021 | Kemarin : ngerjain challenge sampai challenge 3 , belajar golang basic                                                                                                                     | nyari algoritma sudah bisa resolved        | [https://github.com/adhiardiansyah/adhiardiansyah.github.io](https://github.com/adhiardiansyah/adhiardiansyah.github.io) |
+
+[https://github.com/adhiardiansyah/RefactoryChallengeDay2](https://github.com/adhiardiansyah/RefactoryChallengeDay2)
+[https://github.com/adhiardiansyah/RefactoryChallengeDay](https://github.com/adhiardiansyah/RefactoryChallengeDay2)3 |
+| 03/09/2021 | Kemarin : nyelesain challenge day 4,belajar golangHari ini : nyelesain golang, masuk framework, nyelesain challenge | - | [https://github.com/adhiardiansyah/RefactoryChallengeDay](https://github.com/adhiardiansyah/RefactoryChallengeDay2)4
+[https://github.com/adhiardiansyah/RefactoryChallengeDay](https://github.com/adhiardiansyah/RefactoryChallengeDay2)5 |
 | 06/09/2021 | Kemarin : nyelesain challenge sampe day 5 , golang basic nya sudah selesai lanjut ke framework, wpm terakhir : 56 belum stabil, hacker rank sudah nyoba 2 soal | - | https://github.com/adhiardiansyah/golang-rest-api |
 | 07/09/2021 | kemarin : belajar REST API Golang , rest API framework testing menggunakan postman | - | https://github.com/adhiardiansyah/gin-gonic-rest-api |
 | 08/09/2021 | Kemarin : belajar JWTbelum ada gambaran untuk implementasi program | - | https://github.com/adhiardiansyah/gin-gonic-restful-api |
